@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+*::before,*::after{
+    box-sizing: inherit;
+}
+html{
+    font-size: 62.5%; //defini 1rem
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    box-sizing: border-box;
+}
